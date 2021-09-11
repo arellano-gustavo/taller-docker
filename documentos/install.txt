@@ -1,0 +1,6 @@
+sudo apt update
+sudo apt install docker.io
+sudo gpasswd -a ${USER} docker
+sudo systemctl enable --now docker
+exit
+
