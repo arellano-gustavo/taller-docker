@@ -1,7 +1,7 @@
 +--------------------------------------------------------+--------------------------------------------------+
 | Variable_name                                          | Value                                            |
 +--------------------------------------------------------+--------------------------------------------------+
-| Aborted_clients                                        | 91                                               |
+| Aborted_clients                                        | 93                                               |
 | Aborted_connects                                       | 0                                                |
 | Aborted_connects_preauth                               | 0                                                |
 | Access_denied_errors                                   | 0                                                |
@@ -37,8 +37,8 @@
 | Binlog_stmt_cache_disk_use                             | 0                                                |
 | Binlog_stmt_cache_use                                  | 0                                                |
 | Busy_time                                              | 0.000000                                         |
-| Bytes_received                                         | 961                                              |
-| Bytes_sent                                             | 17874                                            |
+| Bytes_received                                         | 939                                              |
+| Bytes_sent                                             | 17713                                            |
 | Column_compressions                                    | 0                                                |
 | Column_decompressions                                  | 0                                                |
 | Com_admin_commands                                     | 0                                                |
@@ -216,7 +216,7 @@
 | Connection_errors_peer_address                         | 0                                                |
 | Connection_errors_select                               | 0                                                |
 | Connection_errors_tcpwrap                              | 0                                                |
-| Connections                                            | 5384                                             |
+| Connections                                            | 5617                                             |
 | Cpu_time                                               | 0.000000                                         |
 | Created_tmp_disk_tables                                | 0                                                |
 | Created_tmp_files                                      | 29                                               |
@@ -274,7 +274,7 @@
 | Handler_write                                          | 0                                                |
 | Innodb_adaptive_hash_hash_searches                     | 0                                                |
 | Innodb_adaptive_hash_non_hash_searches                 | 0                                                |
-| Innodb_background_log_sync                             | 4693592                                          |
+| Innodb_background_log_sync                             | 4780247                                          |
 | Innodb_buffer_pool_dump_status                         |                                                  |
 | Innodb_buffer_pool_load_status                         | Buffer pool(s) load completed at 211112 21:52:56 |
 | Innodb_buffer_pool_resize_status                       |                                                  |
@@ -330,7 +330,7 @@
 | Innodb_lsn_flushed                                     | 63642399                                         |
 | Innodb_lsn_last_checkpoint                             | 62136562                                         |
 | Innodb_master_thread_active_loops                      | 0                                                |
-| Innodb_master_thread_idle_loops                        | 4695178                                          |
+| Innodb_master_thread_idle_loops                        | 4781864                                          |
 | Innodb_max_trx_id                                      | 49639                                            |
 | Innodb_mem_adaptive_hash                               | 0                                                |
 | Innodb_mem_dictionary                                  | 1001608                                          |
@@ -461,8 +461,8 @@
 | Qcache_not_cached                                      | 0                                                |
 | Qcache_queries_in_cache                                | 0                                                |
 | Qcache_total_blocks                                    | 1                                                |
-| Queries                                                | 24680                                            |
-| Questions                                              | 42                                               |
+| Queries                                                | 25650                                            |
+| Questions                                              | 41                                               |
 | Resultset_metadata_skipped                             | 0                                                |
 | Rows_read                                              | 0                                                |
 | Rows_sent                                              | 46                                               |
@@ -548,14 +548,14 @@
 | Threadpool_idle_threads                                | 0                                                |
 | Threadpool_threads                                     | 0                                                |
 | Threads_cached                                         | 0                                                |
-| Threads_connected                                      | 5                                                |
-| Threads_created                                        | 150                                              |
+| Threads_connected                                      | 3                                                |
+| Threads_created                                        | 152                                              |
 | Threads_running                                        | 1                                                |
 | Transactions_gtid_foreign_engine                       | 0                                                |
 | Transactions_multi_engine                              | 0                                                |
 | Update_scan                                            | 0                                                |
-| Uptime                                                 | 4696091                                          |
-| Uptime_since_flush_status                              | 4696091                                          |
+| Uptime                                                 | 4782793                                          |
+| Uptime_since_flush_status                              | 4782793                                          |
 | wsrep                                                  | 0                                                |
 | wsrep_applier_thread_count                             | 0                                                |
 | wsrep_cluster_capabilities                             |                                                  |
